@@ -113,7 +113,7 @@
 
 ### 2) 토폴리지
 
-![image1.jpeg](Task/image1.jpeg)
+![image1.jpeg](image1.jpeg)
 
 ### 3) 호스트 설정 표
 
